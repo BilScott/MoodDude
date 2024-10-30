@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoodDude/static/css/main.90223a0b.css",
-    "main.js": "/MoodDude/static/js/main.2841fd95.js",
+    "main.css": "/MoodDude/static/css/main.ff3d8ea3.css",
+    "main.js": "/MoodDude/static/js/main.d6873980.js",
     "static/js/453.c7c2022c.chunk.js": "/MoodDude/static/js/453.c7c2022c.chunk.js",
     "index.html": "/MoodDude/index.html",
-    "main.90223a0b.css.map": "/MoodDude/static/css/main.90223a0b.css.map",
-    "main.2841fd95.js.map": "/MoodDude/static/js/main.2841fd95.js.map",
+    "main.ff3d8ea3.css.map": "/MoodDude/static/css/main.ff3d8ea3.css.map",
+    "main.d6873980.js.map": "/MoodDude/static/js/main.d6873980.js.map",
     "453.c7c2022c.chunk.js.map": "/MoodDude/static/js/453.c7c2022c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90223a0b.css",
-    "static/js/main.2841fd95.js"
+    "static/css/main.ff3d8ea3.css",
+    "static/js/main.d6873980.js"
   ]
 }
